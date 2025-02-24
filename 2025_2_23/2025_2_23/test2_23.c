@@ -111,3 +111,104 @@
 //	//数组传参的时候是传递数组首元素的地址
 //}
 
+
+
+////猜数字游戏的实现
+////步骤：
+////1.电脑产生一个随机数（1~100）
+////2.猜数字
+////3.猜大了，猜小了，直到猜对了结束
+////int *p = NULL;NULL是空指针，相当于赋值为零
+//void menu()
+//{
+//	printf("*************************\n");
+//	printf("*********1. play ********\n");
+//	printf("*********0. exit ********\n");
+//	printf("*************************\n");
+//}
+//
+////0~RAND_MAX（32767）0x7fff生成随机数的范围
+//void game()
+//{
+//	int guess = 0;
+//	//1.生成随机数
+//	//任何数%100都是0~99--->1~100
+//	int ret = rand()%100 + 1;
+//	//头文件是stdlib.h
+//	//生成随机数的函数
+//	printf("%d\n", ret);
+//	//2.猜数字
+//	while(1)
+//	{
+//		printf("请猜数字：>");
+//		scanf("%d", &guess);
+//		if (guess < ret)
+//		{
+//			printf("猜小了\n");
+//		}
+//		else if (guess > ret)
+//		{
+//			printf("猜大了\n");
+//		}
+//		else
+//		{
+//			printf("恭喜你，猜对了\n");
+//			break;
+//		}
+//	}
+//}
+//
+//int main()
+//{
+//	srand((unsigned int)time(NULL));
+//	//不需要每次生成随机数的时候都调用它，只要在主函数里生成一次就行了
+//	int input = 0;
+//	do
+//	{
+//		menu();
+//		printf("请选择：>");
+//		scanf("%d", &input);
+//		switch (input)
+//		{
+//		case 1:
+//			game();//猜数字的整个逻辑
+//			break;
+//		case 0:
+//			printf("退出游戏\n");
+//			break;
+//		default:
+//			printf("选择错误，请重新选择\n");
+//			break;
+//		}
+//	} 
+//	while (input);
+//	return 0;
+//}
+
+
+
+//c语言提供了可以滥用的goto语句和标记跳转的符号
+//无法跨函数跳转
+//适用于多次嵌套循环
+
+//电脑的关机程序
+//电脑运行起来后一分钟内关机，如果输入“我是猪”就取消关机
+//int main()
+//{
+//	char input[20] = {0};
+//	system("shutdown -s -t 60");
+//again:
+//	printf("请注意，你的电脑将在60秒后关机，如果输入：我是猪，就取消关机\n");
+//	scanf("%s", input);
+//	if (strcmp(input, "我是猪") == 0)
+//	{
+//		system("shutdown -a");
+//	}
+//	else
+//	{
+//		goto again;
+//	}
+//	return 0;
+//}
+
+//debug是调试版本，release是发布版本
