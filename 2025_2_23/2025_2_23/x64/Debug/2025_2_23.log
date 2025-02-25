@@ -1,3 +1,4 @@
 ﻿  test2_23.c
-D:\Visual Studio\Visual Studio2022\项目\2025_2_23\2025_2_23\test2_23.c(163,22): warning C4013: “time”未定义；假设外部返回 int
+  test2_25.c
+  正在生成代码...
   2025_2_23.vcxproj -> D:\Visual Studio\Visual Studio2022\项目\2025_2_23\x64\Debug\2025_2.exe
