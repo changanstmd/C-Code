@@ -227,16 +227,40 @@
 //}
 
 //方法二
-int Add(int p)
-{
-	return ++p;
-}
-int main()
-{
-	int num = 0;
-	num = Add(num);
-	printf("%d\n", num);
-	num = Add(num);
-	printf("%d\n", num);
-	return 0;
-}
+//int Add(int p)
+//{
+//	return ++p;
+//}
+//int main()
+//{
+//	int num = 0;
+//	num = Add(num);
+//	printf("%d\n", num);
+//	num = Add(num);
+//	printf("%d\n", num);
+//	return 0;
+//}
+
+
+
+//函数的嵌套
+//函数可以嵌套调用，但不能嵌套定义
+//链式访问
+//把一个函数的返回值作为另一个函数的参数
+//int main()
+//{
+//	printf("%d", printf("%d", printf("%d", 43)));
+//	//4321
+//	return 0;
+//}
+//printf函数的返回值是一个整型
+//链式访问的前提是要有返回值
+//函数不写返回值，默认为int
+
+//int main(void)
+//明确说明main函数没有参数
+//main函数有三个参数
+//int main(int argc, char* argv[], char* envp[])
+//{
+//	return 0;
+//}
