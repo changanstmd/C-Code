@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\2_28.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|solutionrelative:2025_2_23\\2_28.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\sub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|solutionrelative:2025_2_23\\sub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\test2_25.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F385EC5-395F-417F-B437-BCE1F23865D9}|2025_2_23\\2025_2_23.vcxproj|solutionrelative:2025_2_23\\test2_25.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sub.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\sub.h",
+              "RelativeDocumentMoniker": "2025_2_23\\sub.h",
+              "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\sub.h*",
+              "RelativeToolTip": "2025_2_23\\sub.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T12:01:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2_28.c",
+              "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\2_28.c",
+              "RelativeDocumentMoniker": "2025_2_23\\2_28.c",
+              "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\2_28.c*",
+              "RelativeToolTip": "2025_2_23\\2_28.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-28T11:00:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "test2_25.c",
               "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\test2_25.c",
               "RelativeDocumentMoniker": "2025_2_23\\test2_25.c",
               "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\test2_25.c*",
               "RelativeToolTip": "2025_2_23\\test2_25.c*",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAQwO0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAAASwAoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-25T04:34:17.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "test2_23.c",
               "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_2_23\\2025_2_23\\test2_23.c",
               "RelativeDocumentMoniker": "2025_2_23\\test2_23.c",

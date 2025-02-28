@@ -21,5 +21,13 @@
     <ClCompile Include="test2_25.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2_28.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sub.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

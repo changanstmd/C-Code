@@ -128,8 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2_28.c" />
     <ClCompile Include="test2_23.c" />
     <ClCompile Include="test2_25.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sub.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
