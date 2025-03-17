@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{44B74B5B-BCD5-4BB1-A438-78D229D9D9A9}|2025_3_1\\2025_3_1.vcxproj|solutionrelative:2025_3_1\\test3_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{44B74B5B-BCD5-4BB1-A438-78D229D9D9A9}|2025_3_1\\2025_3_1.vcxproj|D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44B74B5B-BCD5-4BB1-A438-78D229D9D9A9}|2025_3_1\\2025_3_1.vcxproj|solutionrelative:2025_3_1\\3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -25,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,20 +41,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3_1.c",
+              "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\3_1.c",
+              "RelativeDocumentMoniker": "2025_3_1\\3_1.c",
+              "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\3_1.c",
+              "RelativeToolTip": "2025_3_1\\3_1.c",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T12:56:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "3_13.c",
               "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\3_13.c",
               "RelativeDocumentMoniker": "2025_3_1\\3_13.c",
               "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\3_13.c*",
               "RelativeToolTip": "2025_3_1\\3_13.c*",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-13T13:19:37.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\u6E90.cpp",
               "DocumentMoniker": "E:\\\u6E90.cpp",
               "ToolTip": "E:\\\u6E90.cpp",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\u6E90.h",
               "DocumentMoniker": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\\u6E90.h",
               "RelativeDocumentMoniker": "2025_3_1\\\u6E90.h",
@@ -77,9 +94,10 @@
               "RelativeDocumentMoniker": "2025_3_1\\test3_4.c",
               "ToolTip": "D:\\Visual Studio\\Visual Studio2022\\\u9879\u76EE\\2025_3_1\\2025_3_1\\test3_4.c",
               "RelativeToolTip": "2025_3_1\\test3_4.c",
-              "ViewState": "AgIAAOoAAAAAAAAAAAAswAsBAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAswAsBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T07:09:25.036Z"
+              "WhenOpened": "2025-03-03T07:09:25.036Z",
+              "EditorCaption": ""
             }
           ]
         }
